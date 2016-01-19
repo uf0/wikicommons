@@ -1,0 +1,29 @@
+{
+  "name": "wikicommons",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uf0/wikicommons.git"
+  },
+  "keywords": [
+    "wiki",
+    "commons",
+    "image"
+  ],
+  "author": "uf0",
+  "license": "GNU GPL3",
+  "bugs": {
+    "url": "https://github.com/uf0/wikicommons/issues"
+  },
+  "homepage": "https://github.com/uf0/wikicommons",
+  "dependencies": {
+    "csv-write-stream": "^1.0.0",
+    "d3": "^4.0.0-alpha.4",
+    "nodemw": "^0.8.0"
+  }
+}
